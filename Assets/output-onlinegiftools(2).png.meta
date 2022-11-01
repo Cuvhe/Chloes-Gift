@@ -48,7 +48,7 @@ TextureImporter:
       213: -8506488686349323573
     second: output-onlinegiftools(2)_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -69,6 +69,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -107,6 +108,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -122,6 +124,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -460,6 +474,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      output-onlinegiftools(2)_6: -6621912132721968405
+      output-onlinegiftools(2)_1: 1332363348027521021
+      output-onlinegiftools(2)_11: 80229300604152913
+      output-onlinegiftools(2)_8: 8282957560727416715
+      output-onlinegiftools(2)_12: -7032916862870003335
+      output-onlinegiftools(2)_2: 2719075151349856749
+      output-onlinegiftools(2)_10: -7091502731336702031
+      output-onlinegiftools(2)_14: -8506488686349323573
+      output-onlinegiftools(2)_5: -2499559069345239130
+      output-onlinegiftools(2)_3: -3687437235308710022
+      output-onlinegiftools(2)_4: 4131063735667355775
+      output-onlinegiftools(2)_9: -2468454090563663341
+      output-onlinegiftools(2)_13: -1928573124994159894
+      output-onlinegiftools(2)_0: 5082050075326459651
+      output-onlinegiftools(2)_7: 8762986309772159038
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

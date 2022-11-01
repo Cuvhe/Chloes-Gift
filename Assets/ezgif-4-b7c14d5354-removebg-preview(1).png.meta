@@ -1,19 +1,7 @@
 fileFormatVersion: 2
-guid: 680c4a3e214ba5b4d984cd56b1d49668
+guid: 59716cb881981154180294cf8e27e2c8
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 7889182698649827768
-    second: Left Hit (54x52)_0
-  - first:
-      213: -4867785508303738327
-    second: Left Hit (54x52)_1
-  - first:
-      213: -6190999649076277168
-    second: Left Hit (54x52)_2
-  - first:
-      213: 599716033573751369
-    second: Left Hit (54x52)_3
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -45,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +48,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 0, y: 128, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -74,15 +62,15 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 1
-  cookieLightType: 1
+  applyGammaDecoding: 0
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -94,7 +82,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -106,7 +94,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -117,13 +105,118 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Left Hit (54x52)_0
+      name: ezgif-4-b7c14d5354-removebg-preview(1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 169.6
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c1ae327c585cf43bac6dc7654b5ae5
+      internalID: -881403118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif-4-b7c14d5354-removebg-preview(1)_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 147
+        width: 169.6
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8473b7ea4c7ce374a9aa2b4227d5af4f
+      internalID: 1942474751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif-4-b7c14d5354-removebg-preview(1)_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 147
+        width: 169.6
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9638167bccef8040a1ca43787377d2f
+      internalID: -1289236871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif-4-b7c14d5354-removebg-preview(1)_3
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 147
+        width: 169.6
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e594670fb3d684046a80ba160c73e7aa
+      internalID: 489183234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif-4-b7c14d5354-removebg-preview(1)_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 147
+        width: 169.6
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72016c2d0761d98459c16b26e0f0f80e
+      internalID: -1647147160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ezgif-4-b7c14d5354-removebg-preview(1)_5
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 54
-        height: 52
+        width: 169.6
+        height: 147
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 713c4c95f5fdb1e4c8d864eeb4426a6c
-      internalID: 7889182698649827768
+      spriteID: 589ae636b154b4c4e8a605b8c25b9638
+      internalID: -566531951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Left Hit (54x52)_1
+      name: ezgif-4-b7c14d5354-removebg-preview(1)_6
       rect:
         serializedVersion: 2
-        x: 54
+        x: 169
         y: 0
-        width: 54
-        height: 52
+        width: 169.6
+        height: 147
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,50 +245,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 482eb7053d5cc834397d88873f24f0db
-      internalID: -4867785508303738327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Left Hit (54x52)_2
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 0
-        width: 54
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d3118abd09eb4e4cb44ab632dffaf70
-      internalID: -6190999649076277168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Left Hit (54x52)_3
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 0
-        width: 54
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c7f9f988f0a4ee419545ab581130755
-      internalID: 599716033573751369
+      spriteID: db6815a8ae8f2484783ccb6087285a43
+      internalID: 710850942
       vertices: []
       indices: 
       edges: []
@@ -204,17 +255,20 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Left Hit (54x52)_1: -4867785508303738327
-      Left Hit (54x52)_0: 7889182698649827768
-      Left Hit (54x52)_3: 599716033573751369
-      Left Hit (54x52)_2: -6190999649076277168
+      ezgif-4-b7c14d5354-removebg-preview(1)_2: -1289236871
+      ezgif-4-b7c14d5354-removebg-preview(1)_3: 489183234
+      ezgif-4-b7c14d5354-removebg-preview(1)_1: 1942474751
+      ezgif-4-b7c14d5354-removebg-preview(1)_6: 710850942
+      ezgif-4-b7c14d5354-removebg-preview(1)_0: -881403118
+      ezgif-4-b7c14d5354-removebg-preview(1)_4: -1647147160
+      ezgif-4-b7c14d5354-removebg-preview(1)_5: -566531951
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
